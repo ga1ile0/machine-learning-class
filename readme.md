@@ -5,3 +5,6 @@ Notebook with solved exercises can be found here: [link](https://github.com/ga1i
 
 **Clustering** </br>
 Notebook with solved exercises can be found here: [link](https://github.com/ga1ile0/machine-learning-class/blob/master/clustering/047Clustering_Exercises.ipynb) </br>
+
+**Trees** </br>
+Notebook with exercises 1-3 solved can be found here: [link](https://github.com/ga1ile0/machine-learning-class/blob/master/trees/055Decision_trees_Exercises.ipynb) </br>
