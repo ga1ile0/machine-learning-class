@@ -14,3 +14,6 @@ Notebook with solved exercises can be found here: [link](https://github.com/ga1i
 
 **Ensemble** </br>
 Notebook with solved exercises can be found here: [link](https://github.com/ga1ile0/machine-learning-class/blob/master/ensemble/075Ensemble_Exercises.ipynb) </br>
+
+**Nlp** </br>
+Notebook with solved exercises can be found here: [link](https://github.com/ga1ile0/machine-learning-class/blob/master/nlp/106_NLP_Exercises.ipynb) </br>
